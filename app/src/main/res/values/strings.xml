@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoPlayerProj</string>
+    <string name="next_btn_title">Next</string>
+    <string name="previous_btn_title">Previous</string>
+</resources>
